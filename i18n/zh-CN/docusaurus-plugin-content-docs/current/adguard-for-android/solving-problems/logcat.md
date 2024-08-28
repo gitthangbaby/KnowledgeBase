@@ -15,7 +15,7 @@ Data and/or files provided in logs are processed in accordance with [the AdGuard
 
 :::
 
-有时候常规日志可能无法识别问题的根源。 在这种情况下，就需要系统日志。 以下是收集日志的说明：通过开发人员选项和 Logcat。
+有时候常规日志可能无法识别问题的根源。 在这种情况下，就需要系统日志。 Below are instructions on how to collect and get it: via Developer options and Logcat.
 
 :::note
 

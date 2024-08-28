@@ -19,7 +19,7 @@ sidebar_position: 1
 
 ## 사용자 정의 필터
 
-어느 정도 예측 가능한 기능을 가진 필터 그룹 외에 **사용자 정의** 필터가 있습니다.
+While the features of other filter groups are more or less self-explanatory, there is a group called _Custom_ that may raise additional questions.
 
 ![Custom filters \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_custom_filters.png)
 

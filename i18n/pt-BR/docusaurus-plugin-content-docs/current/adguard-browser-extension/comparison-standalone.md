@@ -19,8 +19,8 @@ Embora a extensão do navegador AdGuard seja gratuita, fácil de instalar e tenh
 
 ![Extension vs. App \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_comparison.png)
 
-`1` – within browser restrictions and only in the browser where it is installed;
+`1` — within browser restrictions and only in the browser where it is installed;
 
-`2` – the extension is unable to detect requests from other extensions. Se uma extensão maliciosa ou de rastreamento enviar uma solicitação ao seu servidor para mostrar anúncios ou rastrear sua atividade, a extensão de navegador AdGuard não poderá bloquear essa solicitação;
+`2` — the extension is unable to detect requests from other extensions. Se uma extensão maliciosa ou de rastreamento enviar uma solicitação ao seu servidor para mostrar anúncios ou rastrear sua atividade, a extensão de navegador AdGuard não poderá bloquear essa solicitação;
 
-`3` – not all types of ads and threats can be blocked by browser extensions due to certain browser limitations. Alguns elementos podem chegar à página e retardar o processo de carregamento. Além disso, ao contrário dos bloqueadores de anúncios de extensões, o aplicativo AdGuard bloqueia anúncios antes que eles sejam carregados no navegador. Isso economiza tráfego e acelera o carregamento da página.
+`3` — not all types of ads and threats can be blocked by browser extensions due to certain browser limitations. Alguns elementos podem chegar à página e retardar o processo de carregamento. Além disso, ao contrário dos bloqueadores de anúncios de extensões, o aplicativo AdGuard bloqueia anúncios antes que eles sejam carregados no navegador. Isso economiza tráfego e acelera o carregamento da página.

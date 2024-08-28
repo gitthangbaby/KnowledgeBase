@@ -77,4 +77,4 @@ sidebar_position: 2
 
    11. 「移除 X-Client-Data 头部」 此功能禁止 Chrome 浏览器向 Google 域名（包括 DoubleClick 和 Google Analytics）发送有关其版本和修改的信息。
 
-用户可以在「跟踪保护」中调整设置，并进行自定义配置。 每个设置都有说明，可以帮助您了解其作用。 [进一步了解「跟踪保护」设置的作用](/general/stealth-mode)，请谨慎使用，因为有些设置会干扰网站和浏览器扩展的功能。
+用户可以在「跟踪保护」中调整设置，并进行自定义配置。 每个设置都有说明，可以帮助您了解其作用。 [Read more about what the various _Tracking protection_ settings do](/general/stealth-mode) and utilize them cautiously, as some may interfere with the functionality of websites and browser extensions.

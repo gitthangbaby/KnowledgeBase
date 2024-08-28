@@ -1,5 +1,5 @@
 ---
-title: So erfassen Sie Protokolle in AdGuard für Safari
+title: How to collect logs in AdGuard for Safari
 sidebar_position: 4
 ---
 
@@ -9,9 +9,9 @@ In diesem Artikel geht es um AdGuard für Safari, der nur Ihren Safari-Browser s
 
 :::
 
-Zur Analyse und Diagnose verschiedener Probleme, die mit AdGuard für Safari auftreten können, benötigt der AdGuard-Support möglicherweise die Protokolldateien. Diese Dateien enthalten Aufzeichnungen über Fehler und andere Software-Ereignisse. Im Folgenden finden Sie eine kurze Anleitung, wie Sie Protokolle erstellen und bei Bedarf an den Support senden können.
+Zur Analyse und Diagnose verschiedener Probleme, die mit AdGuard für Safari auftreten können, benötigt der AdGuard-Support möglicherweise die Protokolldateien. Diese Dateien enthalten Aufzeichnungen über Fehler und andere Software-Ereignisse. Below are brief instructions on how to collect logs and send them to support if necessary.
 
-### So erstellen Sie Protokolle
+### How to collect logs
 
 1. Öffnen Sie AdGuard für Safari.
 2. Blättern Sie nach unten und klicken Sie auf _Protokolle exportieren_.

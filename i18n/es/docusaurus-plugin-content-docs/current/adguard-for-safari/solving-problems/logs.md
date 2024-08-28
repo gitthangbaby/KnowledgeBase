@@ -1,5 +1,5 @@
 ---
-title: Cómo recopilar registros en AdGuard para Safari
+title: How to collect logs in AdGuard for Safari
 sidebar_position: 4
 ---
 
@@ -9,9 +9,9 @@ Este artículo trata sobre AdGuard para Safari, que protege solo tu navegador Sa
 
 :::
 
-Para analizar y diagnosticar diversos problemas que pueden ocurrir con AdGuard para Safari, es posible que el servicio de soporte de AdGuard necesite tus archivos de registro. Estos archivos contienen registros de errores y otros eventos de software. A continuación se muestran breves instrucciones sobre cómo recopilar registros y enviarlos al soporte si es necesario.
+Para analizar y diagnosticar diversos problemas que pueden ocurrir con AdGuard para Safari, es posible que el servicio de soporte de AdGuard necesite tus archivos de registro. Estos archivos contienen registros de errores y otros eventos de software. Below are brief instructions on how to collect logs and send them to support if necessary.
 
-### Cómo recopilar registros
+### How to collect logs
 
 1. Abre la aplicación AdGuard para Safari.
 2. Desplázate hacia abajo y haz clic en _Exportar registros_.

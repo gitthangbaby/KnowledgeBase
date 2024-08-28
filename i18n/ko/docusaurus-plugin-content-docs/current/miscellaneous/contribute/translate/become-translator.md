@@ -3,7 +3,7 @@ title: AdGuard의 번역가 ·교정자 되기
 sidebar_position: 2
 ---
 
-AdGuard 제품, 웹 사이트 및 지식 창고 번역에 도움을 주고 싶다면 [Crowdin](https://crowdin.com/)으로 이동하여 가입·로그인하세요.
+If you want to help translate AdGuard products, websites, and Knowledge Bases, go to [Crowdin](https://crowdin.com/) and sign up/log in there.
 
 ![crowdin *border](https://cdn.adtidy.org/public/Adguard/kb/en/ag-translations/main-screen.png)
 

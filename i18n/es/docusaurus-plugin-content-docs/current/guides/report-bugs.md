@@ -17,7 +17,7 @@ Verifica si el error no se ha informado antes. Aconsejamos prestar atención tan
 
 ### Cómo describir un problema
 
-Intenta proporcionar tantos detalles como sea posible; eso nos facilitará la reproducción del error y descubriremos cómo solucionarlo. Esto es lo que esperamos ver en un informe de errores:
+Intenta proporcionar tantos detalles como sea posible; eso nos facilitará la reproducción del error y descubriremos cómo solucionarlo. Here’s what we expect a bug report to include:
 
 - La versión de tu aplicación
 - La versión de tu sistema operativo
@@ -26,9 +26,9 @@ Intenta proporcionar tantos detalles como sea posible; eso nos facilitará la re
 - Si se repitió y con qué frecuencia
 - Si tienes una VPN o un software antivirus
 
-### Cómo recopilar registros
+### How to collect logs
 
-Lee sobre la recopilación de registros en los artículos dedicados a cada plataforma.
+Read about collecting logs in dedicated articles for each platform.
 
 ## Cómo votar por informes de errores o solicitudes de funciones
 

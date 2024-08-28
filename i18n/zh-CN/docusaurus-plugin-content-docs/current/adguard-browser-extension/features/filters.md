@@ -19,7 +19,7 @@ sidebar_position: 1
 
 ## 自定义过滤器
 
-虽然其他过滤器组的功能或多或少可以预测，但一个名为「自定义」的组可能会引起额外的问题。
+While the features of other filter groups are more or less self-explanatory, there is a group called _Custom_ that may raise additional questions.
 
 ![Custom filters \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_custom_filters.png)
 

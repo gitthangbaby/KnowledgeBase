@@ -46,7 +46,7 @@ Bu sayfada bu filtre hakkında daha fazla bilgi edinin. [Kuralları görüntüle
 
 ## AdGuard Filters Policy
 
-Our filter policy defines what AdGuard filters should block and what they should not, as well as the rules for adding and removing rules from filters. Read the full text of [AdGuard filter policy](../filter-policy) for detailed information.
+Our filter policy defines what AdGuard filters should and shouldn't block, as well as the rules for adding and removing rules from filters. Read the full text of [AdGuard filter policy](../filter-policy) for detailed information.
 
 
 

@@ -9,18 +9,18 @@ sidebar_position: 12
 
 :::
 
-为了能够[过滤 HTTPS 流量](/general/https-filtering/what-is-https-filtering.md)（这点很重要，因为大多数广告都使用 HTTPS），AdGuard 需要在设备的用户存储空间中安装证书。 旧版本的 Android 操作系统可以自动完成，但在 Android 11 及更高版本上，用户必须手动安装。
+To be able to [filter HTTPS traffic](/general/https-filtering/what-is-https-filtering.md) (which is extremely important as most ads use HTTPS), AdGuard needs to install its certificate into your device's user storage. 旧版本的 Android 操作系统可以自动完成，但在 Android 11 及更高版本上，用户必须手动安装。
 
 ![证书 *mobile_border](https://cdn.adtidy.org/content/kb/ad_blocker/android/solving_problems/manual-certificate/g.gif)
 
-请按照以下步骤安装 AdGuard 证书：
+Follow these steps to install the AdGuard certificate:
 
 1. 当您看到「*HTTPS 过滤已关闭*」的通知时，点击「*启用*」。
 
 1. 然后您将看到三个画面，它们分别解释了：
     - 为什么要过滤 HTTPS 流量
     - 过滤过程的安全性
-    - AdGuard 证书的必要性
+    - The necessity of the AdGuard certificate
 
     连续点击「*下一步*」→「*下一步*」→「*保存证书*」。
 

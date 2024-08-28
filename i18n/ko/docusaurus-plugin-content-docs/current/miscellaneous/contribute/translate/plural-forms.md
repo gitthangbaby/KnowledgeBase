@@ -1,16 +1,16 @@
 ---
-title: Plural forms
+title: 복수형
 sidebar_position: 4
 ---
 
 
-There are a lot of differences between the world’s languages. One of these differences is the use of plural forms that can cause huge difficulties when it comes to localization issue.
+전 세계 언어에는 많은 차이가 있습니다. 이러한 차이점 중 하나는 현지화 문제와 관련하여 큰 어려움을 야기할 수 있는 복수형 사용입니다.
 
 복수형에 대한 자세한 내용과 AdGuard 번역에서 복수형이 어떻게 사용되는지 알아보려면 이 글을 읽어보세요.
 
-## What do plural forms mean? {#plurals}
+## 복수형은 무엇을 의미하나요? {#plurals}
 
-Nouns in different languages can have several plural word forms. Their usage depends on the number of things you are talking about.
+어떤 언어의 명사는 여러 복수형 단어 형태를 가질 수 있습니다. 사용법은 대화하는 대상의 수에 따라 다릅니다.
 
 For instance, English words have two word forms when speaking about something in the singular, like *'one star'*, and in the plural — *'two stars'*. It doesn’t matter if you say five, twenty six or even five hundred thirty two stars — the ending 's' will remain the same. But some languages can contain only one or many plural forms.
 
@@ -38,7 +38,7 @@ When you are faced with a translation that requires the use of plurals, you may 
 
 Here are some sources of information you can use.
 
-[Localization Guide](http://docs.translatehouse.org/projects/localization-guide/en/latest/l10n/pluralforms.html) contains a wide list of languages. The number of plural forms for different languages is shown this way: `nplurals=2`, `nplurals=4` and so on. The numeral after the Equals sign `=` means the number of plural forms of the respective language.
+[Localization Guide](http://docs.translatehouse.org/projects/localization-guide/en/latest/l10n/pluralforms.html) contains a wide list of languages. The number of plural forms for different languages is shown this way: `nplurals=2`, `nplurals=4` and so on. The numeral after the Equals sign `=` indicates the number of plural forms of the respective language.
 
 Also, you can get information about plural forms in the [Unicode Common Locale Data Repository](http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html#rules) (CLDR). The CLDR Plural Rules indicate an additional word form for decimal numbers (1.5; 2.3; 100.1…), but we don’t use them in AdGuard translations.
 

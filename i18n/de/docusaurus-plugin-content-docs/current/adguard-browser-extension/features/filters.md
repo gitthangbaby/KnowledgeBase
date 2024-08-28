@@ -19,7 +19,7 @@ Alle Filter sind nach ihrer Funktion gruppiert. So gibt es beispielsweise Katego
 
 ## Benutzerdefinierte Filter
 
-Während die Funktionen der anderen Filtergruppen mehr oder weniger selbsterklärend sind, gibt es die Gruppe _Eigene Filter_, die zusätzliche Fragen aufwerfen kann.
+While the features of other filter groups are more or less self-explanatory, there is a group called _Custom_ that may raise additional questions.
 
 ![Eigene Filter \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_custom_filters.png)
 

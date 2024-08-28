@@ -1,5 +1,5 @@
 ---
-title: 收集调试日志的方式
+title: How to collect debug logs
 sidebar_position: 2
 ---
 
@@ -15,7 +15,7 @@ Data and/or files provided in logs are processed in accordance with [the AdGuard
 
 :::
 
-在本文中，我们将指导用户完成收集调试日志的过程，这是解决可能出现的复杂问题的基本故障排除步骤。 调试日志可让您详细了解 Android 版 AdGuard 的内部运作。 如 AdGuard 支持团队要求调试日志，您可按以下指示说明操作即可。
+In this article, we'll guide you through the process of collecting debug logs, an essential troubleshooting step for solving complex issues that may potentially arise. 调试日志可让您详细了解 Android 版 AdGuard 的内部运作。 如 AdGuard 支持团队要求调试日志，您可按以下指示说明操作即可。
 
 :::note
 
@@ -23,9 +23,9 @@ AdGuard is committed to protecting your privacy. We strictly follow our [Privacy
 
 :::
 
-### 收集调试日志
+### Recording debug log
 
-为了收集**调试**日志并将其转发给我们，您要完成以下操作步骤：
+To collect **debug** log and send it to us, you need to perform following steps:
 
 1. 转至「*设置*」→「*常规*」→「*高级*」。
 1. 点击「*日志记录级别*」并设置为「*调试*」。

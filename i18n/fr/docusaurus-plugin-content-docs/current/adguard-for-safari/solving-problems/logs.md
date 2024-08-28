@@ -1,5 +1,5 @@
 ---
-title: Comment collecter les journaux dans AdGuard pour Safari
+title: How to collect logs in AdGuard for Safari
 sidebar_position: 4
 ---
 
@@ -9,9 +9,9 @@ Cet article concerne AdGuard pour Safari, qui protège uniquement votre navigate
 
 :::
 
-Pour analyser et diagnostiquer les divers problèmes pouvant survenir avec AdGuard pour Safari, le service d'assistance d'AdGuard peut avoir besoin des fichiers de journaux. Ces fichiers contiennent des enregistrements d'erreurs et d'autres événements logiciels. Vous trouverez ci-dessous de brèves instructions comment faire pour collecter les journaux et les envoyer au support si nécessaire.
+Pour analyser et diagnostiquer les divers problèmes pouvant survenir avec AdGuard pour Safari, le service d'assistance d'AdGuard peut avoir besoin des fichiers de journaux. Ces fichiers contiennent des enregistrements d'erreurs et d'autres événements logiciels. Below are brief instructions on how to collect logs and send them to support if necessary.
 
-### Comment collecter les journaux
+### How to collect logs
 
 1. Ouvrez l'application AdGuard pour Safari.
 2. Faites défiler vers le bas et cliquez sur _Exporter les journaux_.

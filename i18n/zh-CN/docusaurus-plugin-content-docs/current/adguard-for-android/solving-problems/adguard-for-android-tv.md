@@ -9,7 +9,7 @@ sidebar_position: 17
 
 :::
 
-在大多数情况下，普通浏览器无法在电视上安装文件，但用户可以从 Google Play 商店下载具有此功能的浏览器。 在本指南中，我们将举例说明如何使用 TV Bro 浏览器进行安装，但还有其他选项，用户可以根据自己的需要进行选择。 作为替代方案，可以使用 [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) 应用程序。
+在大多数情况下，普通浏览器无法在电视上安装文件，但用户可以从 Google Play 商店下载具有此功能的浏览器。 In our guide, we will go through an example of installation using the TV Bro browser, but there are other options and you can choose the one that better suits your needs. 作为替代方案，可以使用 [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) 应用程序。
 
 ## 通过浏览器安装 Android TV 版 AdGuard
 

@@ -19,8 +19,8 @@ AdGuard 브라우저 확장 프로그램은 무료이며, 설치가 쉽고 광�
 
 ![Extension vs. App \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_comparison.png)
 
-`1` – within browser restrictions and only in the browser where it is installed;
+`1` — within browser restrictions and only in the browser where it is installed;
 
-`2` – the extension is unable to detect requests from other extensions. 만약 악성 또는 추적 확장 프로그램이 광고나 당신의 활동을 추적하기 위해 서버에 요청을 보내는 경우, AdGuard 브라우저 확장 프로그램은 해당 요청을 차단할 수 없습니다.
+`2` — the extension is unable to detect requests from other extensions. 만약 악성 또는 추적 확장 프로그램이 광고나 당신의 활동을 추적하기 위해 서버에 요청을 보내는 경우, AdGuard 브라우저 확장 프로그램은 해당 요청을 차단할 수 없습니다.
 
-`3` – not all types of ads and threats can be blocked by browser extensions due to certain browser limitations. 일부 요소는 페이지로 이동하여 로딩 프로세스가 느려질 수 있습니다. 또한 브라우저 기반 광고 차단기와 달리 AdGuard 앱은 광고가 브라우저에 로드되기 전에 차단합니다. 이렇게 하면 트래픽이 절약되고 페이지 로딩 속도가 빨라집니다.
+`3` — not all types of ads and threats can be blocked by browser extensions due to certain browser limitations. 일부 요소는 페이지로 이동하여 로딩 프로세스가 느려질 수 있습니다. 또한 브라우저 기반 광고 차단기와 달리 AdGuard 앱은 광고가 브라우저에 로드되기 전에 차단합니다. 이렇게 하면 트래픽이 절약되고 페이지 로딩 속도가 빨라집니다.

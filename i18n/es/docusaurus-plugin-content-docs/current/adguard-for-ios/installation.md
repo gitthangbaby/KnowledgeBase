@@ -29,7 +29,7 @@ AdGuard para iOS es una aplicación presentada en la App Store. Para instalarla 
 
 ![En la pantalla principal de App Store, toca Buscar *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/1.png)
 
-Escribe *adguard* en la barra de búsqueda y toca la cadena *AdGuard* que estará entre los resultados de búsqueda.
+Type *adguard* in the search bar and tap the string *AdGuard* which will be among search results.
 
 ![Escribe "AdGuard" en la barra de búsqueda *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/2.png)
 
@@ -43,11 +43,11 @@ AdGuard Pro es una versión de pago de AdGuard para iOS, que ofrece un conjunto 
 
 ![En la pantalla principal de App Store, toca Buscar *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/1.png)
 
-Escribe *adguard* en el formulario de búsqueda y luego toca la cadena *AdGuard Pro - bloqueador de anuncios* que se mostrará entre los resultados de búsqueda.
+Type *adguard* in the search form, and then tap the string *AdGuard Pro — adblock* which will be shown among search results.
 
 ![Escribe "AdGuard" en la barra de búsqueda *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/2.png)
 
-En la página abierta de la App Store, toca el botón con el costo de la licencia bajo la cadena *AdGuard Pro - adblock*, y luego toca *COMPRAR*. Es posible que se te pida que introduzcas tu nombre de usuario y contraseña de tu Apple ID. Escríbelo y espera a que se complete la instalación.
+On the opened page of the App Store tap the button with the cost of the license under the string *AdGuard Pro — adblock*, and then tap *BUY*. Es posible que se te pida que introduzcas tu nombre de usuario y contraseña de tu Apple ID. Escríbelo y espera a que se complete la instalación.
 
 ![Toca GET debajo de la aplicación AdGuard *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/3.png)
 

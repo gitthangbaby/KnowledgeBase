@@ -13,13 +13,13 @@ sidebar_position: 3
 
 ## 常规 {#general}
 
-在「常规」选项卡中，用户可以允许搜索广告和网站的[自我推广](/general/ad-filtering/search-ads)，启用自动激活特定语言过滤器的，指明过滤器更新间隔等。
+In the _General_ tab, you can allow search ads and the [self-promotion of websites](/general/ad-filtering/search-ads), enable the automatic activation of language-specific filters, indicate the filters' update interval, etc.
 
 ![常规 \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_general.png)
 
 此外，还可以启用[「钓鱼和恶意保护」](/general/browsing-security)。
 
-您可以单击「导出设置」来保存设置配置。 设置将保存为 .json 文件。 要上传以前保存的设置配置，请使用「导入设置」功能。 用户还可以使用该功能在不同的设置配置文件之间快速切换，甚至可以在不同的浏览器之间传输设置配置。
+您可以单击「导出设置」来保存设置配置。 设置将保存为 .json 文件。 To import the previously saved settings configuration, use the _Import settings_ function. 用户还可以使用该功能在不同的设置配置文件之间快速切换，甚至可以在不同的浏览器之间传输设置配置。
 
 ## 附加设置 {#misc}
 
@@ -33,6 +33,6 @@ sidebar_position: 3
 
 ## 关于 {#about}
 
-在「关于」部分中，用户可以找到有关当前版本的信息、EULA 和隐私政策的链接以及 GitHub 上浏览器扩展存储库的链接。
+In the _About_ section, you can find info about the current version, links to the EULA and Privacy policy, and to the repository of the Browser extension on GitHub.
 
 ![关于 \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_about.png)

@@ -13,7 +13,7 @@ DNS 保护模块可通过点击底部屏幕的「保护」标签（屏幕底部�
 
 :::tip
 
-DNS 保护功能的工作原理与常规广告和跟踪器拦截不同。 用户可以[在专门文章中了解更多有关功能工作原理的信息](https://adguard-dns.io/kb/general/dns-filtering/#how-does-dns-filtering-work)。
+DNS 保护功能的工作原理与常规广告和跟踪器拦截不同。 You can [learn more about it and how it works from a dedicated article](https://adguard-dns.io/kb/general/dns-filtering/#how-does-dns-filtering-work)
 
 :::
 

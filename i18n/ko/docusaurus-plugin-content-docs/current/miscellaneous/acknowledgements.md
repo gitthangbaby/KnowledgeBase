@@ -32,17 +32,17 @@ This is the list of libraries and other resources that really helped us with AdG
 
 - Logback-android by Tony19: [tony19.github.io/logback-android](https://tony19.github.io/logback-android)
 - Otto by Square: [http://square.github.io/otto](http://square.github.io/otto)
-- RootTools Library by Stericson: [github.com/Stericson/RootTools](https://github.com/Stericson/RootTools)
-- MaterialDateRangePicker by Supratim Chakraborty: [github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
-- HelloCharts by Leszek Wach: [github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
+- Stericson의 RootTools 라이브러리: [github.com/Stericson/RootTools](https://github.com/Stericson/RootTools)
+- Supratim Chakraborty의 MaterialDateRangePicker: [github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
+- Leszek Wach의 HelloCharts: [github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 
 ## iOS용 AdGuard {#ios}
 
-- Reachability component by Tony Million: [github.com/tonymillion/Reachability](https://github.com/tonymillion/Reachability)
-- Fmdb component by August «Gus» Mueller: [github.com/ccgus/fmdb](https://github.com/ccgus/fmdb)
-- NSStringPunycodeAdditions component by Nate Weaver: [github.com/Wevah/Punycode-Cocoa](https://github.com/Wevah/Punycode-Cocoa)
-- Minizip-ng library by Nathan Moinvaziri: [github.com/zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng)
-- Lottie for iOS library by Brandon Withrow: [github.com/airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
+- Tony Million의 도달 가능성 컴포넌트: [github.com/tonymillion/Rachability](https://github.com/tonymillion/Reachability)
+- August «Gus» Mueller의 Fmdb 컴포넌트: [github.com/ccgus/fmdb](https://github.com/ccgus/fmdb)
+- Nate Weaver의 NSStringPunycodeAdditions 컴포넌트: [github.com/Wevah/Punycode-Cocoa](https://github.com/Wevah/Punycode-Cocoa)
+- Nathan Moinvaziri의 Minizip-ng 라이브러리: [github.com/zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng)
+- Brandon Withrow의 iOS용 Lottie 라이브러리: [github.com/airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 
 ## AdGuard 확장 프로그램 {#extension}
 
@@ -113,7 +113,7 @@ This is the list of libraries and other resources that really helped us with AdG
 - Chromium: [github.com/chromium/chromium/blob/master/LICENSE](https://github.com/chromium/chromium/blob/master/LICENSE)
 - Detours: [github.com/microsoft/Detours/blob/main/LICENSE.md](https://github.com/microsoft/Detours/blob/main/LICENSE.md)
 - eDistantObject: [github.com/google/eDistantObject/blob/master/LICENSE](https://github.com/google/eDistantObject/blob/master/LICENSE)
-- FF/FFOS libs by Simon Zolin: [github.com/stsaz/ffbase/blob/master/README.md](https://github.com/stsaz/ffbase/blob/master/README.md)
+- Simon Zolin의 FF/FFOS 라이브러리: [github.com/stsaz/ffbase/blob/master/README.md](https://github.com/stsaz/ffbase/blob/master/README.md)
 - Google test: [github.com/google/googletest/blob/master/LICENSE](https://github.com/google/googletest/blob/master/LICENSE)
 - http-parser: [github.com/nodejs/http-parser/blob/master/LICENSE-MIT](https://github.com/nodejs/http-parser/blob/master/LICENSE-MIT)
 - jsmn: [github.com/zserge/jsmn/blob/master/LICENSE](https://github.com/zserge/jsmn/blob/master/LICENSE)
@@ -134,7 +134,7 @@ Also a huge thanks and gratitude to all beta testers and other engaged users, wh
 - ag_bug_finder — beta tester of AdGuard for Windows
 - Aikatsui — active contributor to AdGuard Home
 - Andy Kleinert (AndyKl) — translator and proofreader to German in Crowdin
-- BigDargon — contributed the hostsVN project as a source to the list of AdGuard DNS
+- BigDargon - AdGuard DNS 목록에 hostsVN 프로젝트를 소스로 제공했습니다.
 - Blaz — started as a filter contributor and now working at AdGuard
 - Boo Berry — Telegram group moderator
 - buuuuuuu190 — beta tester

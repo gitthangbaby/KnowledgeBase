@@ -5,7 +5,7 @@ sidebar_position: 2
 
 :::info
 
-This article is about AdGuard for Android, a multifunctional ad blocker that protects your device at the system level. To see how it works, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+В этой статье рассказывается об AdGuard для Android — многофункциональном блокировщике рекламы, который защищает ваше устройство на системном уровне. [Скачайте приложение AdGuard](https://agrd.io/download-kb-adblock), чтобы увидеть, как оно работает
 
 :::
 
@@ -61,20 +61,20 @@ Here are the active features of the pre-configured levels:
 
    :::caution
 
-   This feature deletes all third-party cookies after their forced expiration. This includes your logins through social networks or other third-party services. You may need to re-log in to some websites periodically or experience other cookie-related issues. To block only tracking cookies, use the _Standard_ protection level.
+   This feature deletes all third-party cookies after their forced expiration. Сюда входят ваши логины в социальных сетях или других сторонних сервисах. Возможно, вам придётся периодически повторно входить на некоторые сайты или испытывать другие проблемы, связанные с файлами куки. Чтобы блокировать только отслеживающие куки, используйте _Стандартный уровень защиты_.
 
    :::
 
-   f. _Block WebRTC_. This feature blocks WebRTC, a known vulnerability that can leak your real IP address even if you use a proxy or VPN
+   f. _Блокировать WebRTC_. Эта функция блокирует WebRTC — уязвимость, которая может привести к утечке вашего IP-адреса, даже если вы используете прокси или VPN
 
-   g. _Block Push API_. This feature prevents your browsers from receiving push messages from servers
+   g. _Блокировать Push API_. Эта функция не позволяет вашим браузерам получать push-сообщения от серверов
 
-   h. _Block Location API_. This feature prevents browsers from accessing your GPS data and determining your location
+   h. _Блокировать Location API_. Эта функция не позволяет браузерам получать доступ к вашим данным GPS и определять ваше местоположение
 
-   i. _Hide Referer from third parties_. This feature prevents third parties from knowing which websites you visit. It hides the HTTP header that contains the URL of the initial page and replaces it with a default or custom one that you can set
+   i. _Скрывать Referer от третьих лиц_. Эта функция не позволяет третьим лицам узнать, какие сайты вы посещаете. Она скрывает HTTP-заголовок, содержащий URL-адрес начальной страницы, и заменяет его на стандартный или пользовательский, который вы можете задать
 
-   j. _Hide your User-Agent_. This feature removes identifying information from the User-Agent header, which typically includes the name and version of the browser, the operating system, and language settings
+   j. _Скрыть User-Agent_. Эта функция удаляет из заголовка User-Agent идентифицирующую информацию, которая обычно включает название и версию браузера, операционную систему и языковые настройки
 
-   k. _Remove X-Client-Data header_. This feature prevents Google Chrome from sending its version and modifications information to Google domains (including DoubleClick and Google Analytics)
+   k. _Удалять заголовок X-Client-Data_. Эта функция не даёт отправлять информацию о версии и модификации Google Chrome на домены Google (включая DoubleClick и Google Analytics)
 
-You can tweak individual settings in _Tracking protection_ and come up with a custom configuration. Every setting has a description that will help you understand its role. [Learn more about what various _Tracking protection_ settings do](/general/stealth-mode) and approach them with caution, as some may interfere with the functionality of websites and browser extensions.
+Вы можете изменить отдельные параметры в разделе _Антитрекинг_ и создать индивидуальную конфигурацию. У каждой настройки есть описание, которое поможет вам понять её роль. [Read more about what the various _Tracking protection_ settings do](/general/stealth-mode) and utilize them cautiously, as some may interfere with the functionality of websites and browser extensions.

@@ -41,7 +41,7 @@ Tento článek je o filtrech, které vytváříme pro použití v AdGuardu a jin
 
 ## Zásady AdGuard filtrů
 
-Naše zásady filtrování definují, co mají filtry AdGuard blokovat a co ne a také pravidla pro přidávání a odebírání pravidel z filtrů. Pro podrobné informace si přečtěte celý text [Zásad AdGuard filtrů](../filter-policy).
+Our filter policy defines what AdGuard filters should and shouldn't block, as well as the rules for adding and removing rules from filters. Pro podrobné informace si přečtěte celý text [Zásad AdGuard filtrů](../filter-policy).
 
 ## Přispět k rozvoji filtrů AdGuardu
 

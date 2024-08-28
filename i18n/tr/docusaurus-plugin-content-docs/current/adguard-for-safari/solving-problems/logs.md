@@ -1,5 +1,5 @@
 ---
-title: Safari için AdGuard'da günlükler nasıl toplanır
+title: How to collect logs in AdGuard for Safari
 sidebar_position: 4
 ---
 
@@ -9,7 +9,7 @@ Bu makale, yalnızca Safari tarayıcınızı koruyan Safari için AdGuard hakkı
 
 :::
 
-Safari için AdGuard ile oluşabilecek çeşitli sorunları analiz etmek ve teşhis etmek için AdGuard destek hizmetinin günlük dosyalarına ihtiyacı olabilir. Bu dosyalar hataların ve diğer yazılım olaylarının kayıtlarını içerir. Aşağıda günlüklerin nasıl toplanacağı ve gerektiğinde desteğe nasıl gönderileceği hakkında kısa talimatlar bulunmaktadır.
+Safari için AdGuard ile oluşabilecek çeşitli sorunları analiz etmek ve teşhis etmek için AdGuard destek hizmetinin günlük dosyalarına ihtiyacı olabilir. Bu dosyalar hataların ve diğer yazılım olaylarının kayıtlarını içerir. Below are brief instructions on how to collect logs and send them to support if necessary.
 
 ### How to collect logs
 

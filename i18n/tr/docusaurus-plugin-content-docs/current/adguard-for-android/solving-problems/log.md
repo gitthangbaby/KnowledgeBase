@@ -1,5 +1,5 @@
 ---
-title: Hata ayıklama günlükleri nasıl toplanır
+title: How to collect debug logs
 sidebar_position: 2
 ---
 
@@ -15,7 +15,7 @@ Günlüklerde sağlanan veriler ve/veya dosyalar [AdGuard Gizlilik Politikasına
 
 :::
 
-Bu makalede, potansiyel olarak ortaya çıkabilecek karmaşık sorunları çözmek için önemli bir sorun giderme adımı olan hata ayıklama günlüklerini toplama sürecinde size rehberlik edeceğiz. Hata ayıklama günlükleri, Android için AdGuard'ın iç işleyişine ilişkin ayrıntılı bilgiler sağlar. If the AdGuard support team asks you to provide debug logs, simply follow these instructions.
+In this article, we'll guide you through the process of collecting debug logs, an essential troubleshooting step for solving complex issues that may potentially arise. Hata ayıklama günlükleri, Android için AdGuard'ın iç işleyişine ilişkin ayrıntılı bilgiler sağlar. If the AdGuard support team asks you to provide debug logs, simply follow these instructions.
 
 :::not
 
@@ -23,9 +23,9 @@ AdGuard gizliliğinizi korumaya kararlıdır. [Gizlilik Politikamıza](https://a
 
 :::
 
-### Hata ayıklama günlüğü toplama
+### Recording debug log
 
-**hata ayıklama** günlüğünü toplamak ve bize göndermek için aşağıdaki adımları uygulamanız gerekir:
+To collect **debug** log and send it to us, you need to perform following steps:
 
 1. *Ayarlar* → *Genel* → *Gelişmiş* öğesine gidin.
 1. *Günlük düzeyi* öğesine dokunun ve bunu *Hata ayıklama* olarak ayarlayın.

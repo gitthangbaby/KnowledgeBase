@@ -17,7 +17,7 @@ Verificar se o bug não foi reportado antes. Aconselhamos prestar atenção a qu
 
 ### Como descrever um problema
 
-Tente fornecer o máximo de detalhes possível, isso facilitará a reprodução do bug e a descoberta de como corrigi-lo. Aqui está o que esperamos ver em um relatório de bug:
+Tente fornecer o máximo de detalhes possível, isso facilitará a reprodução do bug e a descoberta de como corrigi-lo. Here’s what we expect a bug report to include:
 
 - A versão do seu aplicativo
 - A sua versão do SO
@@ -26,9 +26,9 @@ Tente fornecer o máximo de detalhes possível, isso facilitará a reprodução 
 - Se se repetiu e com que frequência
 - Se você tem uma VPN ou um software antivírus
 
-### Como coletar registros
+### How to collect logs
 
-Leia sobre a coleta de logs em artigos dedicados para cada plataforma.
+Read about collecting logs in dedicated articles for each platform.
 
 ## Como votar em relatórios de bugs ou solicitações de recursos
 

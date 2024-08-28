@@ -51,7 +51,7 @@ Done! You have successfully set up AdGuard to work in the background.
 
 要让 AdGuard 应用程序成功在后台运行，请执行以下操作：
 
-在「**设置**」→「**应用程序**」→「**管理应用程序**」→ 向下滚动找到「**AdGuard**」，将「**自动启动**」设置为「开」。
+In **Settings** → **Apps** → **Manage apps**, scroll down to locate **AdGuard** and set **Autostart** to “On”.
 
 ![小米设置 *mobile_border](https://cdn.adtidy.org/content/kb/ad_blocker/android/solving_problems/background-work/xiaomi4en.jpeg)
 
@@ -529,7 +529,7 @@ Sony 是第一家引入非标准后台进程优化的移动操作系统开发商
 
 您还需要将 AdGuard 从省电功能中排除：
 
-「**系统设置**」→「**应用和通知**」→「**高级**」→「**特殊应用访问权限**」→「**省电功能**」→ 将 AdGuard 切换为「**除外**」
+**System settings** → **Apps & Notifications** → **Advanced** → **Special app access** → **Power saving feature** → Switch AdGuard to **Excepted**
 
 ## WIKO
 

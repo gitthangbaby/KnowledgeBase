@@ -13,13 +13,13 @@ Além dos grandes módulos principais da extensão do navegador AdGuard, existem
 
 ## Geral {#general}
 
-Na aba _Geral_, você pode permitir anúncios de pesquisa e a [autopromoção de sites](/general/ad-filtering/search-ads), ativar a ativação automática de filtros específicos de idioma, indicar o intervalo de atualização dos filtros etc.
+In the _General_ tab, you can allow search ads and the [self-promotion of websites](/general/ad-filtering/search-ads), enable the automatic activation of language-specific filters, indicate the filters' update interval, etc.
 
 ![Geral \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_general.png)
 
 Além disso, aqui você pode ativar a [_Proteção contra phishing e malware_](/general/browsing-security).
 
-Você pode salvar suas configurações clicando no botão _Exportar configurações_. As configurações serão salvas como um arquivo .json. Para carregar as configurações salvas anteriormente, use a função _Importar configurações_. Você pode até usá-lo para alternar rapidamente entre diferentes perfis de configurações ou até mesmo para transferir configurações entre diferentes navegadores.
+Você pode salvar suas configurações clicando no botão _Exportar configurações_. As configurações serão salvas como um arquivo .json. To import the previously saved settings configuration, use the _Import settings_ function. Você pode até usá-lo para alternar rapidamente entre diferentes perfis de configurações ou até mesmo para transferir configurações entre diferentes navegadores.
 
 ## Configurações adicionais {#misc}
 
@@ -33,6 +33,6 @@ Além disso, você pode optar por nos ajudar no desenvolvimento de filtros envia
 
 ## Sobre {#about}
 
-Na seção _Sobre_, você pode encontrar informações sobre a versão atual, links para o EULA e a política de privacidade e para o repositório da extensão do navegador no GitHub.
+In the _About_ section, you can find info about the current version, links to the EULA and Privacy policy, and to the repository of the Browser extension on GitHub.
 
 ![Sobre \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_about.png)

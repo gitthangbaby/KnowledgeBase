@@ -126,7 +126,7 @@ When the *Use FakeDNS* setting is enabled, *DNS Protection* will be automaticall
 
 :::
 
-**别忘记把密码作为附加项，并提及软件包名称和类别。 您需要为每个 intent 消息都这样做。**
+**Don't forget to include the password, package name, and class. 您需要为每个 intent 消息都这样做。**
 
 Extra: `password:*******`
 
@@ -136,7 +136,7 @@ Class: `com.adguard.android.receiver.AutomationReceiver`
 
 :::note
 
-在 v4.0 之前，该类被称为 `com.adguard.android.receivers.AutomationReceiver` 但是后来我们将其名称更改为 `com.adguard.android.receiver.AutomationReceiver`。 如果用户使用过该功能，请留意并使用新的名称。
+在 v4.0 之前，该类被称为 `com.adguard.android.receivers.AutomationReceiver` 但是后来我们将其名称更改为 `com.adguard.android.receiver.AutomationReceiver`。 If this function is used, remember to update to the new name.
 
 :::
 

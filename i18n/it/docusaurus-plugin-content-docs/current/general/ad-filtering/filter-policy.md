@@ -36,7 +36,7 @@ Gli **anti-adblock** sono tecnologie utilizzate dai siti web o dalle applicazion
 
 ### Filtri
 
-I filtri di blocco degli annunci AdGuard includono:
+I filtri di blocco degli annunci di AdGuard includono:
 
 - Filtro di base di AdGuard
 - Filtro Inserzioni Mobili di AdGuard

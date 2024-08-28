@@ -13,13 +13,13 @@ Abgesehen von den großen Hauptmodulen der AdGuard Browsererweiterung gibt es ei
 
 ## Allgemein {#general}
 
-Im Tab _Allgemein_ können Sie Suchanzeigen und die [Eigenwerbung von Websites](/general/ad-filtering/search-ads) zulassen, die automatische Aktivierung sprachspezifischer Filter aktivieren, das Aktualisierungsintervall der Filter angeben usw.
+In the _General_ tab, you can allow search ads and the [self-promotion of websites](/general/ad-filtering/search-ads), enable the automatic activation of language-specific filters, indicate the filters' update interval, etc.
 
 ![Allgemein \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_general.png)
 
 Außerdem können Sie hier [_Schutz vor Phishing und Malware_](/general/browsing-security) aktivieren.
 
-Wenn Sie Ihre Einstellungen speichern möchten, klicken Sie auf die Schaltfläche _Einstellungen exportieren_. Die Einstellungen werden als .json-Datei gespeichert. Um die zuvor gespeicherte Konfiguration zu importieren, verwenden Sie die Funktion _Einstellungen importieren_. Sie können damit sogar schnell zwischen verschiedenen Einstellungsprofilen wechseln oder sogar Einstellungskonfigurationen zwischen verschiedenen Browsern übertragen.
+Wenn Sie Ihre Einstellungen speichern möchten, klicken Sie auf die Schaltfläche _Einstellungen exportieren_. Die Einstellungen werden als .json-Datei gespeichert. To import the previously saved settings configuration, use the _Import settings_ function. Sie können damit sogar schnell zwischen verschiedenen Einstellungsprofilen wechseln oder sogar Einstellungskonfigurationen zwischen verschiedenen Browsern übertragen.
 
 ## Zusätzliche Einstellungen {#misc}
 
@@ -33,6 +33,6 @@ Sie können uns auch bei der Entwicklung von Filtern helfen, indem Sie uns Stati
 
 ## Über uns {#about}
 
-Im Tab _Über uns_ finden Sie Informationen zur aktuellen Version, Links zum Endbenutzer-Lizenzvertrag und zur Datenschutzerklärung sowie zum Repository der Browsererweiterung auf GitHub.
+In the _About_ section, you can find info about the current version, links to the EULA and Privacy policy, and to the repository of the Browser extension on GitHub.
 
 ![Über uns \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_about.png)

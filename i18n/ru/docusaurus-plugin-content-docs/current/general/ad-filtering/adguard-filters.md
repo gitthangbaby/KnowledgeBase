@@ -41,7 +41,7 @@ sidebar_position: 2
 
 ## Политика фильтров AdGuard
 
-Наша политика фильтрации определяет, что фильтры AdGuard должны блокировать, а что нет, а также регулирует порядок добавления и удаления правил из фильтров. Чтобы узнать больше, прочтите полный текст [политики фильтров AdGuard](../filter-policy).
+Our filter policy defines what AdGuard filters should and shouldn't block, as well as the rules for adding and removing rules from filters. Чтобы узнать больше, прочтите полный текст [политики фильтров AdGuard](../filter-policy).
 
 ## Участвовать в развитии фильтров AdGuard
 

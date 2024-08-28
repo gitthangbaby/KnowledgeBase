@@ -80,7 +80,7 @@ In the DNS protection module of AdGuard for Windows you can select the DNS serve
 
 Modül, tarayıcıda açılan web sayfalarının içeriğini kontrol eder ve çocuklar için istenmeyen içeriğe sahip olanları filtreler: yetişkinler için resimler ve metinler, kaba dil, şiddet, uyuşturucu kullanımı, vb. Ebeveyn Denetimi ayarları parola korumalıdır, böylece çocuk kısıtlamaların ötesine geçemez. Bu modül sadece istenmeyen sitelere yönlendirmeleri engellemekle kalmaz, aynı zamanda çocuklar için uygun olmayan bağlantıları da arama sonuçlarından silebilir.
 
-In the Parental Control module you can enable the _Safe search_ and manage the _blocklist_ and the _allowlist_ to customize how this option works. Çocuğunuzun bilgisayara yazılım indirip yüklemesini engellemek için _Yürütülebilen dosyaların indirilmesini engelle_ kutusunu da işaretleyebilirsiniz. There are two more options in the _Parental Control_ module: you can select a specific Windows user to be protected by _Parental Control_ and set a password to protect AdGuard settings from change.
+In the _Parental Control_ module you can enable the _Safe search_ and manage the _blocklist_ and the _allowlist_ to customize how this option works. Çocuğunuzun bilgisayara yazılım indirip yüklemesini engellemek için _Yürütülebilen dosyaların indirilmesini engelle_ kutusunu da işaretleyebilirsiniz. There are two more options in the _Parental Control_ module: you can select a specific Windows user to be protected by _Parental Control_ and set a password to protect AdGuard settings from change.
 
 ![Ebeveyn Denetimi \*mobile\_border](https://cdn.adtidy.org/content/kb/ad_blocker/windows/overview/parental-control.png)
 

@@ -19,7 +19,7 @@ Tutti i filtri sono raggruppati a seconda del loro ruolo. Ad esempio, esistono c
 
 ## Filtri personalizzati
 
-Mentre le funzionalità degli altri gruppi di filtraggio sono più o meno prevedibili, esiste un gruppo, detto _Personalizzati_, che potrebbe sollevare ulteriori dubbi.
+While the features of other filter groups are more or less self-explanatory, there is a group called _Custom_ that may raise additional questions.
 
 ![Custom filters \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_custom_filters.png)
 

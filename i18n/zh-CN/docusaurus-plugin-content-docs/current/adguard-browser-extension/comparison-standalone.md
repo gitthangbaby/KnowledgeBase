@@ -19,8 +19,8 @@ AdGuard 浏览器扩展免费且易于安装，并具有用于阻止广告和对
 
 ![扩展VS应用 \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_comparison.png)
 
-`1` 受浏览器的限制，且仅能在对应浏览器中有效；
+`1` — within browser restrictions and only in the browser where it is installed;
 
-`2` 扩展无法检测到来自其他扩展的请求。 如果恶意或跟踪扩展请求服务器向用户展示广告或跟踪个人活动记录，那么 AdGuard 浏览器扩展程序将无法阻止该请求；
+`2` — the extension is unable to detect requests from other extensions. 如果恶意或跟踪扩展请求服务器向用户展示广告或跟踪个人活动记录，那么 AdGuard 浏览器扩展程序将无法阻止该请求；
 
-`3` 由于某些浏览器限制，扩展程序无法阻止所有类型的广告和威胁。 有些元素可能会进入页面并减慢加载速度。 此外，与基于浏览器的广告拦截器不同，AdGuard 应用程序会在广告加载到浏览器之前进行拦截。 这样可以节省流量并加快页面加载速度。
+`3` — not all types of ads and threats can be blocked by browser extensions due to certain browser limitations. 有些元素可能会进入页面并减慢加载速度。 此外，与基于浏览器的广告拦截器不同，AdGuard 应用程序会在广告加载到浏览器之前进行拦截。 这样可以节省流量并加快页面加载速度。

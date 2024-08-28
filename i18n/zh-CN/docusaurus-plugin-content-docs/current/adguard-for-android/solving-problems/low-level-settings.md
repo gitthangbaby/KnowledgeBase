@@ -113,7 +113,7 @@ If this setting is on, AdGuard will apply all enabled DNS filters and DNS user r
 
 #### Encrypted Client Hello
 
-每一个加密的互联网连接都有一个未加密的部分， 就是发送的第一个数据包，包含用户要连接的服务器名称。 Encrypted ClientHello（ECH）的技术能够解决该问题，成功加密最后一位未加密的信息。 要使用该功能，请启用「*Encrypted ClientHello*」选项。 本功能使用本地 DNS 代理查找域名的 ECH 配置。 如果找到，将对 ClientHello 数据包进行加密。
+每一个加密的互联网连接都有一个未加密的部分， 就是发送的第一个数据包，包含用户要连接的服务器名称。 Encrypted ClientHello（ECH）的技术能够解决该问题，成功加密最后一位未加密的信息。 要使用该功能，请启用「*Encrypted ClientHello*」选项。 本功能使用本地 DNS 代理查找域名的 ECH 配置。 If it is found, Client Hello packet will be encrypted.
 
 #### OCSP 检查
 
@@ -147,7 +147,7 @@ If this setting is on, AdGuard will apply all enabled DNS filters and DNS user r
 
 如果启用此设置，AdGuard 将在「*最近活动*」中记录被阻止的 HTML 元素。
 
-#### Scriplet 调试
+#### Scriptlet debugging
 
 如果启用此设置，Scriptlets 中的调试将被激活，浏览器日志将记录 Scriptlets 规则的应用情况。
 

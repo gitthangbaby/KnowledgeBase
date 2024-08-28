@@ -29,7 +29,7 @@ AdGuard für iOS ist im App Store erhältlich. Um sie auf Ihrem Gerät zu instal
 
 ![Tippen Sie auf dem Hauptbildschirm des App Store auf Suchen *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/1.png)
 
-Geben Sie *adguard* in die Suchleiste ein und tippen Sie auf die Zeichenfolge *adguard*, die sich unter den Suchergebnissen befinden wird.
+Type *adguard* in the search bar and tap the string *AdGuard* which will be among search results.
 
 ![Geben Sie "AdGuard" in die Suchleiste ein *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/2.png)
 
@@ -43,11 +43,11 @@ AdGuard Pro ist eine kostenpflichtige Version von AdGuard für iOS, die einen er
 
 ![Tippen Sie auf dem Hauptbildschirm des App Store auf Suchen *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/1.png)
 
-Geben Sie *adguard* in das Suchformular ein, und tippen Sie dann auf die Zeichenfolge *AdGuard pro — adblock*, die unter den Suchergebnissen angezeigt wird.
+Type *adguard* in the search form, and then tap the string *AdGuard Pro — adblock* which will be shown among search results.
 
 ![Geben Sie "AdGuard" in die Suchleiste ein *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/2.png)
 
-Tippen Sie auf der geöffneten Seite des App Stores auf die Schaltfläche mit den Lizenzkosten unter der Zeichenfolge *AdGuard Pro — adblock* und tippen Sie dann auf *Kaufen*. Möglicherweise werden Sie aufgefordert, Ihre Apple-ID-Anmeldenamen und Passwort einzugeben. Geben Sie sie ein und warten Sie, bis die Installation abgeschlossen ist.
+On the opened page of the App Store tap the button with the cost of the license under the string *AdGuard Pro — adblock*, and then tap *BUY*. Möglicherweise werden Sie aufgefordert, Ihre Apple-ID-Anmeldenamen und Passwort einzugeben. Geben Sie sie ein und warten Sie, bis die Installation abgeschlossen ist.
 
 ![Tippen Sie auf GET unterhalb der AdGuard-App *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/installation/iOS/en/3.png)
 

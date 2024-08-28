@@ -17,7 +17,7 @@ sidebar_position: 4
 1. Choose a video and tap *Share*.
 1. Tap *More*, then select *Block YouTube Ads (by AdGuard)*.
 
-AdGuard will open its ad-free video player.
+The video now opens in AdGuard's ad-free player.
 
 ## 如何在 Safari 中拦截 YouTube 广告
 
@@ -31,4 +31,4 @@ Make sure you've given AdGuard access to all websites. You can check it in Safar
 1. Choose a video and tap *Share*.
 1. Tap *Block YouTube Ads (by AdGuard)*.
 
-AdGuard will open its ad-free video player.
+The video now opens in AdGuard's ad-free player.

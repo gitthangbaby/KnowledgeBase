@@ -1,5 +1,5 @@
 ---
-title: 如何在 Safari 版 AdGuard 中收集日志记录
+title: How to collect logs in AdGuard for Safari
 sidebar_position: 4
 ---
 
@@ -9,9 +9,9 @@ sidebar_position: 4
 
 :::
 
-为了分析和诊断可能出现的 AdGuard Safari 版的各种问题，AdGuard 客服支持人员可能需要日志记录文件。 这些文件包含错误和其他软件事件的日志记录。 下面我们简述获取日志文件的方式并在需要的时候反送给我们的客服支持。
+为了分析和诊断可能出现的 AdGuard Safari 版的各种问题，AdGuard 客服支持人员可能需要日志记录文件。 这些文件包含错误和其他软件事件的日志记录。 Below are brief instructions on how to collect logs and send them to support if necessary.
 
-### 如何收集日志记录
+### How to collect logs
 
 1. 开启 AdGuard Safari 版。
 2. 向下滚动并单击「_导出日志_」。

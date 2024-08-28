@@ -71,7 +71,7 @@ Tempo, in secondi, prima dell'invio di un'altra richiesta keepalive verso un pee
 
 #### `network.https.ech.enabled`
 
-Utilizza un proxy DNS locale per cercare le configurazioni nella lista di configurazioni ECH. Se trovata, cripta ClientHellos.
+Utilizza un proxy DNS locale per cercare le configurazioni nella lista di configurazioni ECH. If found, encrypts Client Hellos.
 
 #### `network.https.enforce.certificate.transparency`
 

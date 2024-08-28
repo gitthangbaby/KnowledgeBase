@@ -1,5 +1,5 @@
 ---
-title: So werden AdGuard-Protokolle erfasst
+title: How to collect AdGuard logs
 sidebar_position: 3
 ---
 
@@ -15,7 +15,7 @@ Die in den Protokollen enthaltenen Daten und/oder Dateien werden in Übereinstim
 
 :::
 
-Zur Analyse und Diagnose verschiedener Probleme, die möglicherweise auftreten können, benötigt der AdGuard-Support möglicherweise AdGuard-Protokolldateien. These files contain records about errors and other events that occurr with the software. Nachfolgend finden Sie eine kurze Anleitung, wie Sie die Protokolldateien abrufen und gegebenenfalls an den Support-Dienst senden können.
+Zur Analyse und Diagnose verschiedener Probleme, die möglicherweise auftreten können, benötigt der AdGuard-Support möglicherweise AdGuard-Protokolldateien. These files contain records about errors and other events that occur with the software. Nachfolgend finden Sie eine kurze Anleitung, wie Sie die Protokolldateien abrufen und gegebenenfalls an den Support-Dienst senden können.
 
 :::note
 
@@ -25,7 +25,7 @@ AdGuard is committed to protecting your privacy. We strictly follow our [Privacy
 
 ### Debug logs {#debug-logs}
 
-1. Öffnen Sie die AdGuard-Einstellungen. Öffnen Sie den Abschnitt *Allgemeine Einstellungen*, blättern Sie bis zum Ende des Bildschirms und schalten Sie die *Protokollierungstiefe* auf *Zur Fehlersuche* um.
+1. Öffnen Sie die AdGuard-Einstellungen. Go to the *General Settings* section, scroll down to the bottom of the screen, and switch the *Logging Level* to *Debug*.
 
     ![Stufe der Fehlersuch-Protokollierung *border](https://cdn.adtidy.org/content/kb/ad_blocker/windows/solving-problems/adg-logs-1.png)
 
@@ -33,13 +33,13 @@ AdGuard is committed to protecting your privacy. We strictly follow our [Privacy
 
     Wir empfehlen Ihnen dringend, sich den genauen Zeitpunkt zu notieren, zu dem Sie das Problem reproduziert haben: Das hilft unserem Support-Team, relevante Protokolleinträge zu finden und das Problem schneller zu lösen.
 
-1. Exportieren Sie die aufgezeichneten Protokolle über die Schaltfläche *Protokoll exportieren*.
+1. Export the collected logs using the *Export Logs* button.
 
     ![Protokoll exportieren *border](https://cdn.adtidy.org/content/kb/ad_blocker/windows/solving-problems/adg-logs-2.png)
 
     Speichern Sie das Archiv in einem beliebigen Ordner.
 
-1. **Wichtig**: Setzen Sie nach dem Exportieren der Protokolle die Protokollierungsstiefe wieder auf *Standard*. Die Protokollierungsstufe *Zur Fehlersuche* verlangsamt die Anwendung.
+1. **Important**: after exporting the logs, set the logging level back to *Default*. Die Protokollierungsstufe *Zur Fehlersuche* verlangsamt die Anwendung.
 
 1. Senden Sie das Archiv an den AdGuard-Support unter **support@adguard.com**, beschreiben Sie das Problem und vergessen Sie nicht, den Zeitpunkt anzugeben, zu dem Sie das Problem reproduziert haben.
 
@@ -65,7 +65,7 @@ Wenn Sie eine ältere Version von AdGuard für Windows haben, führen Sie die An
 
     Wir empfehlen Ihnen dringend, sich den genauen Zeitpunkt zu notieren, zu dem Sie das Problem reproduziert haben: Das hilft unserem Support-Team, relevante Protokolleinträge zu finden und das Problem schneller zu lösen.
 
-1. Exportieren Sie die aufgezeichneten Protokolle über die Schaltfläche *Protokoll exportieren*.
+1. Export the collected logs using the *Export Logs* button.
 
     ![Protokoll exportieren *border](https://cdn.adtidy.org/content/kb/ad_blocker/windows/solving-problems/adg-logs-2.png)
 

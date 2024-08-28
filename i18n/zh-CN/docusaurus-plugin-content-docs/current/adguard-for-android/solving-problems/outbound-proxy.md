@@ -1,5 +1,5 @@
 ---
-title: 如何设置出战代理
+title: 如何设置出站代理
 sidebar_position: 8
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 8
 
 :::
 
-以下是最著名的应用程序列表，用户可以将其配置为 AdGuard 的代理。
+Below is a list of the most well-known applications that can be configured to work as proxies in AdGuard.
 
 :::note
 
@@ -41,11 +41,11 @@ AdGuard 可以通过代理服务器路由设备流量。 要访问代理设置�
     | 代理主机 | *127.0.0.1*         |
     | 代理端口 | *9050*              |
 
-    或者您可以点击「**代理服务器**」→「**添加代理服务器**」，手动输入这些值，然后将 Orbot 设置为默认代理。
+    Or you can tap **Proxy server** → **Add proxy server**, enter these values manually, and set Orbot as the default proxy.
 
 1. 启用主代理开关和 AdGuard 保护功能，通过代理路由设备的流量。
 
-    现在 AdGuard 会将所有流量通过 Orbot 代理发送。 如您禁用 Orbot 代理，那么您在 AdGuard 设置中禁用出战代理设置前，互联网连接将不可用。
+    Now AdGuard will route all traffic through Orbot. If you disable Orbot, Internet connection will be unavailable until you disable the outbound proxy settings in AdGuard.
 
 ### 如何同时使用 AdGuard 和 PIA（Private Internet Access）
 
@@ -157,4 +157,4 @@ AdGuard 可以通过代理服务器路由设备流量。 要访问代理设置�
 
 ## 限制
 
-即使用户配置 AdGuard 代理设置，也有一个因素会阻止流量通过出站代理路由。 如果用户没有设置应用程序本身通过 AdGuard 发送流量，这种情况就会发生。 要做到这一点，请进一步设置「**应用管理**」，选择应用程序，并打开「**通过 AdGuard 路由流量**」。
+However, at least one factor may prevent certain traffic from being routed through the outbound proxy, even after configuring the AdGuard proxy settings. That would be if the app itself isn't configured to send its traffic through AdGuard. 要做到这一点，请进一步设置「**应用管理**」，选择应用程序，并打开「**通过 AdGuard 路由流量**」。

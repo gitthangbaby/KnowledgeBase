@@ -13,13 +13,13 @@ Outre les grands modules clés de l'extension de navigateur AdGuard, il existe p
 
 ## Général {#general}
 
-Dans l'onglet _Général_, vous pouvez autoriser les publicités de recherche et [l'autopromotion des sites web](/general/ad-filtering/search-ads), activer automatiquement les filtres spécifiques à la langue, indiquer l'intervalle de mise à jour des filtres, etc.
+In the _General_ tab, you can allow search ads and the [self-promotion of websites](/general/ad-filtering/search-ads), enable the automatic activation of language-specific filters, indicate the filters' update interval, etc.
 
 ![General \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_general.png)
 
 De plus, ici vous pouvez activer la [_Protection contre l'hameçonnage et les logiciels malveillants_](/general/browsing-security).
 
-Vous pouvez sauvegarder la configuration de vos paramètres en cliquant sur le bouton _Exporter les paramètres_. Les paramètres seront sauvegardés sous la forme d'un fichier .json. Pour charger la configuration de paramètres précédemment sauvegardée, utilisez la fonction _Importer les paramètres_. Vous pouvez même l'utiliser pour passer rapidement entre différents profils de paramètres ou même pour transférer des configurations de paramètres entre différents navigateurs.
+Vous pouvez sauvegarder la configuration de vos paramètres en cliquant sur le bouton _Exporter les paramètres_. Les paramètres seront sauvegardés sous la forme d'un fichier .json. To import the previously saved settings configuration, use the _Import settings_ function. Vous pouvez même l'utiliser pour passer rapidement entre différents profils de paramètres ou même pour transférer des configurations de paramètres entre différents navigateurs.
 
 ## Paramètres supplémentaires {#misc}
 
@@ -33,6 +33,6 @@ De plus, vous pouvez choisir de nous aider dans le développement des filtres en
 
 ## À propos {#about}
 
-Dans la section _À propos_, vous pouvez trouver des informations sur la version actuelle, des liens vers le CLUF et la Politique de confidentialité, ainsi que vers le dépôt de l'extension de navigateur sur GitHub.
+In the _About_ section, you can find info about the current version, links to the EULA and Privacy policy, and to the repository of the Browser extension on GitHub.
 
 ![About \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_about.png)

@@ -13,13 +13,13 @@ AdGuard 브라우저 확장 프로그램의 주요 모듈 외에도 확장 프�
 
 ## 일반 {#general}
 
-**일반 탭**에서 검색 광고 및 [웹사이트 자체 홍보](/general/ad-filtering/search-ads)를 허용하고 언어별 필터 자동 활성화나 필터 업데이트 주기 등을 지정할 수 있습니다.
+In the _General_ tab, you can allow search ads and the [self-promotion of websites](/general/ad-filtering/search-ads), enable the automatic activation of language-specific filters, indicate the filters' update interval, etc.
 
 ![General \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_general.png)
 
 또한, 여기에서 [_피싱 및 멀웨어 보호_](/general/browsing-security)를 활성화할 수 있습니다.
 
-**설정 내보내기** 버튼을 클릭하여 구성을 저장할 수 있습니다. 설정은 .json 파일로 저장됩니다. 이전에 만든 구성을 적용하려면 **설정 가져오기** 기능을 사용하세요. 다른 설정 프로필 간에 빠르게 전환하거나 다른 브라우저 간에 구성을 전송하는 데에도 사용할 수 있습니다.
+**설정 내보내기** 버튼을 클릭하여 구성을 저장할 수 있습니다. 설정은 .json 파일로 저장됩니다. To import the previously saved settings configuration, use the _Import settings_ function. 다른 설정 프로필 간에 빠르게 전환하거나 다른 브라우저 간에 구성을 전송하는 데에도 사용할 수 있습니다.
 
 ## 추가 설정 {#misc}
 
@@ -33,6 +33,6 @@ AdGuard 브라우저 확장 프로그램의 주요 모듈 외에도 확장 프�
 
 ## 정보 {#about}
 
-**정보 섹션**에는 현재 버전에 대한 정보, EULA 및 개인정보취급방침에 대한 링크, GitHub의 브라우저 확장 프로그램 저장소를 확인할 수 있습니다.
+In the _About_ section, you can find info about the current version, links to the EULA and Privacy policy, and to the repository of the Browser extension on GitHub.
 
 ![About \*border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_about.png)

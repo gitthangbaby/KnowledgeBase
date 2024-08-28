@@ -15,7 +15,7 @@ Die in den Protokollen enthaltenen Daten und/oder Dateien werden in Übereinstim
 
 :::
 
-Manchmal reicht ein einfaches Protokoll nicht aus, um die Ursache des Problems zu ermitteln. In solchen Fällen ist ein Systemprotokoll erforderlich. Nachfolgend finden Sie eine Anleitung zum Zusammenstellen und Abrufen der Daten: über die Entwickleroptionen und Logcat.
+Manchmal reicht ein einfaches Protokoll nicht aus, um die Ursache des Problems zu ermitteln. In solchen Fällen ist ein Systemprotokoll erforderlich. Below are instructions on how to collect and get it: via Developer options and Logcat.
 
 :::note
 

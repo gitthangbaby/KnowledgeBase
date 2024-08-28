@@ -27,7 +27,7 @@ sidebar_position: 4
 
 「看门狗功能」可帮助用户保护 AdGuard 免于被系统禁用（[阅读有关 Android 省电模式的更多信息](/adguard-for-android/solving-problems/background-work/)）。 您输入的数值将是看门狗检查的间隔时间（以秒为单位）。
 
-「日志级别」定义应记录哪些有关应用程序运行的数据。 默认情况下，应用程序会收集有关其事件的数据。 「调试」级别记录更多事件，有时 AdGuard 团队要求启用调试级别，因为它们可以帮助支持团队更好地了解问题原因。 [了解有关收集和发送日志的更多信息](/adguard-for-android/solving-problems/log/)。
+「日志级别」定义应记录哪些有关应用程序运行的数据。 默认情况下，应用程序会收集有关其事件的数据。 「调试」级别记录更多事件，有时 AdGuard 团队要求启用调试级别，因为它们可以帮助支持团队更好地了解问题原因。 [Read more about collecting and sending logs](/adguard-for-android/solving-problems/log/)
 
 ![Advanced \*mobile\_border](https://cdn.adtidy.org/blog/new/vshfnadvanced.png)
 
@@ -59,7 +59,7 @@ AdGuard 应用过滤器中的规则以阻止广告、跟踪器和其他干扰。
 
 ### 用户脚本
 
-用户脚本是用 JavaScript 编写的迷你程序，用于扩展一个或多个网站的功能。 要安装用户脚本，需要一个特殊的用户脚本管理器。 AdGuard 有这样的功能，让用户通过 URL 或文件添加用户脚本。
+Userscripts are miniprograms written in JavaScript that extend the functionality of one or more websites. 要安装用户脚本，需要一个特殊的用户脚本管理器。 AdGuard 有这样的功能，让用户通过 URL 或文件添加用户脚本。
 
 ![Userscripts \*mobile\_border](https://cdn.adtidy.org/blog/new/isv6userscripts.png)
 
@@ -133,7 +133,7 @@ HTTPS 过滤允许 AdGuard 过滤请求和响应的内容，但我们从不收�
 - 购买 AdGuard 许可证以激活[完整版功能](/adguard-for-android/features/free-vs-full)。
 - 登录 AdGuard 账号或输入许可证密钥以激活许可证。
 - 如果尚未使用许可证，请激活 7 天试用期
-- 通过三点菜单（:）刷新许可证状态
+- Refresh the license status from the three-dots menu (⋮)
 - 打开 AdGuard 账号管理许可证。
 - 重置许可证。在您已达到此许可证可绑定的设备数量限制，并希望申请另一个许可证的情况下。
 

@@ -5,15 +5,15 @@ sidebar_position: 9
 
 :::info
 
-В этой статье рассказывается об AdGuard для Mac — многофункциональном блокировщике рекламы, который защищает ваше устройство на системном уровне. To see how it works, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+В этой статье рассказывается об AdGuard для Mac — многофункциональном блокировщике рекламы, который защищает ваше устройство на системном уровне. [Скачайте приложение AdGuard](https://agrd.io/download-kb-adblock), чтобы увидеть, как оно работает
 
 :::
 
 ## Основное
 
-![Network](https://cdn.adtidy.org/content/kb/ad_blocker/mac/network.png)
+![Сеть](https://cdn.adtidy.org/content/kb/ad_blocker/mac/network.png)
 
-### Automatically filter applications
+### Автоматически фильтровать трафик приложений
 
 By default, AdGuard blocks ads and trackers in most browsers ([Tor Browser is an exception](/adguard-for-mac/solving-problems/tor-filtering)). This setting allows AdGuard to block ads in apps as well.
 

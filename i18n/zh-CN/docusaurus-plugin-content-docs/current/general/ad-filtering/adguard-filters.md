@@ -41,7 +41,7 @@ sidebar_position: 2
 
 ## AdGuard 过滤器政策
 
-我们的过滤器政策定义在过滤器中添加和删除的规则，以及 AdGuard 过滤器应该拦截和不应该拦截的内容的规则。 阅读全文 [AdGuard 过滤政策](../filter-policy)了解详细信息。
+Our filter policy defines what AdGuard filters should and shouldn't block, as well as the rules for adding and removing rules from filters. 阅读全文 [AdGuard 过滤政策](../filter-policy)了解详细信息。
 
 ## 为 AdGuard 过滤器做贡献
 
